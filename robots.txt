@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Søk og KI-assistenter er eksplisitt velkomne
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.auqr.no/sitemap.xml
